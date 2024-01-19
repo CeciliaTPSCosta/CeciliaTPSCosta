@@ -4,8 +4,6 @@
 
 🎓 I go to Universidade Federal da Bahia
 
-🌱 I am currently reading Grokking Algorithms by Aditya Y. Bhargava
-
 📌 Born and living in Salvador, Brazil
 
 
