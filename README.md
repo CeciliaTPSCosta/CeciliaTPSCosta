@@ -5,11 +5,6 @@
 
 📌 Born and living in Salvador, Brazil
 
-###
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CeciliaTPSCosta&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeciliaTPSCosta&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ceciliatpscosta/)
 
